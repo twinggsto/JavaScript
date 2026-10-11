@@ -11,9 +11,13 @@ let name="Chirag";
 let age=21;
 let isLoggedIn= false;
 
-//null => standalone value
-//undefined => value not assigned
-// symbol => Unique
+//BigInt used in trading comany
+// number range => 2^53
+// string => "" will be in double quote
+// boolean => true/false
+// null => standalone value it is a type
+// undefine => we didn't give value
+// symbol => unique
 
 
 // object
